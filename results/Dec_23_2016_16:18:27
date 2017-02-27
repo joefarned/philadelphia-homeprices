@@ -1,0 +1,1 @@
+{"model_type":"linear_regression","response":{"Sale.Price":"numerical"},"features":[{"Local.Moving.Average":"numerical"}],"confidence_threshold":0.7,"results":[{"2008 delta":-0.337854460898316},{"2013 delta":-0.129011788893193},{"r.squared":0.999999999999855}]}

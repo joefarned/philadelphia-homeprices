@@ -1,0 +1,18 @@
+{
+	"model_type": "linear_regression",
+	"alpha": 1,
+	"response": {"Sale.Price": "numerical"},
+	"features": [
+		{"Market.Value": "numerical"},
+		{"Taxable.Land": "numerical"},
+		{"Taxable.Building": "numerical"},
+		{"Exempt.Land": "numerical"},
+		{"Depth": "numerical"},
+		{"Number.of.Rooms": "numerical"},
+		{"Number.of.Bedrooms": "numerical"},
+		{"Number.of.Bathrooms": "numerical"},
+		{"Log.Total.Livable.Area": "numerical"},
+		{"Local.Moving.Average": "numerical"}
+  ],
+	"confidence_threshold": 500
+}
